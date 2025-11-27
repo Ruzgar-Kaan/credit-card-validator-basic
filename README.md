@@ -5,7 +5,18 @@ It implements the Luhn Algorithm, which is commonly used to verify the validity 
 
 The project demonstrates basic C++ practices such as input handling, loops, string manipulation, and algorithm implementation.
 
----
+****************************************************************************************************************************************************
+
+# How to Compile and Run
+
+To compile the program with g++, run the following command:
+
+g++ Credit_card_validator_program.cpp -o validator
+
+
+After compilation, you can run the program with:
+
+./validator
 
 ****************************************************************************************************************************************************
 
